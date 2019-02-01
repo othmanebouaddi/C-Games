@@ -1,6 +1,7 @@
 # C-Games
 Developed differentes games with C++.
-Using allocation memory.
+The application use allocation memory.
+To start the application use main.cpp
 
 
 The menu looks like:
